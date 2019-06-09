@@ -1,0 +1,11 @@
+.appBar {
+    -fx-background-color : #7e57c2;
+}
+
+.drop_shadow {
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0, 0, 0)
+}
+
+.raised_button_white_background {
+    -fx-background-color : white;
+}
